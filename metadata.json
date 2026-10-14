@@ -1,0 +1,6 @@
+{
+  "name": "SkillSwap Community Network",
+  "description": "A non-monetary skill exchange platform powered by a TimeBank System (1 hour taught = 1 time credit earned) and Google AI Studio Gemini API for intelligent matching, roadmaps, and icebreakers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
